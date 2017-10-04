@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KeycardDatabase", "COM350-660161511-A3\KeycardDatabase.vbproj", "{E2DF3C4C-3C15-417D-8925-71A3A6B0A855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2DF3C4C-3C15-417D-8925-71A3A6B0A855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DF3C4C-3C15-417D-8925-71A3A6B0A855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DF3C4C-3C15-417D-8925-71A3A6B0A855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DF3C4C-3C15-417D-8925-71A3A6B0A855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11A5802A-D387-49B0-B99D-1F6151355300}
+	EndGlobalSection
+EndGlobal
